@@ -1,7 +1,7 @@
 
 # CMASFO
 
-# Constructive Mastery Forum
+## Constructive Mastery Forum
 
 CMASFO is an abbreviation of Constructive Mastery Forum.
 
