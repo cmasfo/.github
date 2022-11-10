@@ -3,10 +3,10 @@
 
 ## Main Links
 
-* https://github.com/cmasfo/cmasfo (Forum Software)
-* https://cmasfo.com (Official Forum)
-* https://cmasfo.org (Official Documentation)
-* https://cmasfo.net (Official Blog)
+* https://github.com/cmasfo/cmasfo
+* https://cmasfo.com
+* https://cmasfo.org
+* https://cmasfo.net
 
 ## Related Links
 
