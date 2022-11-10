@@ -4,9 +4,9 @@
 ## Main Links
 
 * https://github.com/cmasfo/cmasfo (Main Repository)
-* https://cmasfo.com (Official Website)
-* https://cmasfo.org (Experimental Website)
-* https://cmasfo.net (Blog Website)
+* https://cmasfo.com (Forum Website)
+* https://cmasfo.org (Organization Website)
+* https://cmasfo.net (Admin Website)
 
 ## Contact & Donation
 
