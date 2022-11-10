@@ -20,5 +20,5 @@
 ## Related Links
 
 * https://github.com/cmasfo-admin (Admin Account)
-* https://twitter.com/cmasfo
-* https://www.youtube.com/channel/UCgiWsRzrI7CSynWRXP8OyNw
+* https://twitter.com/cmasfo (Twitter Account)
+* https://www.youtube.com/channel/UCgiWsRzrI7CSynWRXP8OyNw (YouTube Channel)
