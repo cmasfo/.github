@@ -9,5 +9,5 @@
 
 ## Related Links
 
-* https://github.com/cmasfo-admin (Admin's Account)
-* https://twitter.com/cmasfo (Official Twitter)
+* https://github.com/cmasfo-admin
+* https://twitter.com/cmasfo
