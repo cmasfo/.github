@@ -3,7 +3,7 @@
 
 ## Main Links
 
-* https://cmasfo.com (Forum)
+* https://cmasfo.com
 * https://cmasfo.org
 * https://cmasfo.net
 
