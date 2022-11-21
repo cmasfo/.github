@@ -20,4 +20,4 @@
 * https://github.com/cmasfo (Organization Account)
 * https://github.com/cmasfo-admin (Admin Account)
 * https://twitter.com/cmasfo (Twitter Account)
-* [https://youtube.com/channel/...](https://youtube.com/channel/UCgiWsRzrI7CSynWRXP8OyNw) (YouTube Channel)
+* https://youtube.com/@cmasfo (YouTube Channel)
