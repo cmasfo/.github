@@ -3,10 +3,10 @@
 
 ## Main Links
 
-* https://github.com/cmasfo/cmasfo (Main Repository)
 * https://cmasfo.com (Forum Website)
 * https://cmasfo.org (Organization Website)
 * https://cmasfo.net (Admin Website)
+* https://github.com/cmasfo (GitHub)
 
 ## Contact & Donation
 
