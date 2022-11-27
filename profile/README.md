@@ -3,7 +3,7 @@
 
 ## Main Links
 
-* https://github.com/cmasfo (GitHub)
+* https://github.com/cmasfo/cmasfo-app (Official App)
 * https://cmasfo.com (Forum Website)
 * https://cmasfo.org (Organization Website)
 * https://cmasfo.net (Admin Website)
