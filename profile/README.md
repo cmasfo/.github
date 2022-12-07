@@ -6,7 +6,7 @@
 * Name: CMASFO (Constructive Mastery Forum)
 * Type: Forum Website
 * Main Preference: Rust
-* Location: South Korea
+* Server Location: South Korea
 
 ## Main Links
 
