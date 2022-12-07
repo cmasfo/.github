@@ -3,10 +3,10 @@
 
 ## About
 
-* Name: CMASFO
-* Full-Name: Constructive Mastery Forum
+* Name: CMASFO (Constructive Mastery Forum)
 * Type: Forum Website
-* Purpose: General-Purpose
+* Main Preference: Rust
+* Server Location: South Korea
 
 ## Main Links
 
