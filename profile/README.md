@@ -1,23 +1,30 @@
 
-# CMASFO
+# Admin
+
+## About
+
+* Name: CMASFO
+* Full-Name: Constructive Mastery Forum
+* Type: Forum Website
+* Purpose: General-Purpose
 
 ## Main Links
 
-* https://github.com/cmasfo/cmasfo-app (Official App)
+* https://github.com/cmasfo/cmasfo-app (App)
 * https://cmasfo.com (Forum Website)
 * https://cmasfo.org (Organization Website)
 * https://cmasfo.net (Admin Website)
 
-## Contact & Donation
-
-* cmasfo@gmail.com (International)
-* cmasfo@naver.com (South Korea)
-* https://paypal.me/cmasfopaypal (International)
-* https://toss.me/cmasfo (South Korea)
-
-## Related Links
+## Social Links
 
 * https://github.com/cmasfo (Organization Account)
 * https://github.com/cmasfo-admin (Admin Account)
 * https://twitter.com/cmasfo (Twitter Account)
 * https://youtube.com/@cmasfo (YouTube Channel)
+
+## Contact & Donation
+
+* cmasfo@gmail.com (Gmail, International)
+* cmasfo@naver.com (Naver, South Korea)
+* https://paypal.me/cmasfopaypal (Paypal, International)
+* https://toss.me/cmasfo (Toss, South Korea)
