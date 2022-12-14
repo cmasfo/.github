@@ -20,7 +20,7 @@
 * https://github.com/cmasfo (Organization Account)
 * https://github.com/cmasfo-admin (Admin Account)
 * https://twitter.com/cmasfo (Twitter Account)
-* https://youtube.com/@cmasfo (YouTube Channel)
+* https://discord.gg/YNZ5fScb8h (Discord Server)
 
 ## Contact & Donation
 
