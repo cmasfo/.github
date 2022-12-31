@@ -28,3 +28,7 @@
 * cmasfo@naver.com (Naver, South Korea)
 * https://paypal.me/cmasfopaypal (Paypal, International)
 * https://toss.me/cmasfo (Toss, South Korea)
+
+---
+
+Repos are still being developed. Please be patient...
