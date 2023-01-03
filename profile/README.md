@@ -32,3 +32,5 @@
 ---
 
 Repos are still being developed. Please be patient...
+
+To see more informations, check here: github.com/cmasfo/cmasfo
