@@ -33,4 +33,4 @@
 
 Repos are still being developed. Please be patient...
 
-To see more informations, check here: github.com/cmasfo/cmasfo
+To see more informations, check here: https://github.com/cmasfo/cmasfo/blob/main/README.md
