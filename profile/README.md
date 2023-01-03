@@ -10,10 +10,10 @@
 
 ## Main Links
 
-* https://github.com/cmasfo/cmasfo-app/releases (App Releases)
-* https://cmasfo.com (Forum Website)
-* https://cmasfo.org (Organization Website)
 * https://cmasfo.net (Admin Website)
+* https://cmasfo.org (Organization Website)
+* https://cmasfo.com (Forum Website)
+* https://github.com/cmasfo/cmasfo-app/releases (App Releases)
 
 ## Social Links
 
